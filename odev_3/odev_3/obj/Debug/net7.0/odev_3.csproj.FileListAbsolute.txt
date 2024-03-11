@@ -1,0 +1,15 @@
+/Users/omer/projects/odev_3/odev_3/bin/Debug/net7.0/odev_3
+/Users/omer/projects/odev_3/odev_3/bin/Debug/net7.0/odev_3.deps.json
+/Users/omer/projects/odev_3/odev_3/bin/Debug/net7.0/odev_3.runtimeconfig.json
+/Users/omer/projects/odev_3/odev_3/bin/Debug/net7.0/odev_3.dll
+/Users/omer/projects/odev_3/odev_3/bin/Debug/net7.0/odev_3.pdb
+/Users/omer/projects/odev_3/odev_3/obj/Debug/net7.0/odev_3.csproj.AssemblyReference.cache
+/Users/omer/projects/odev_3/odev_3/obj/Debug/net7.0/odev_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omer/projects/odev_3/odev_3/obj/Debug/net7.0/odev_3.AssemblyInfoInputs.cache
+/Users/omer/projects/odev_3/odev_3/obj/Debug/net7.0/odev_3.AssemblyInfo.cs
+/Users/omer/projects/odev_3/odev_3/obj/Debug/net7.0/odev_3.csproj.CoreCompileInputs.cache
+/Users/omer/projects/odev_3/odev_3/obj/Debug/net7.0/odev_3.dll
+/Users/omer/projects/odev_3/odev_3/obj/Debug/net7.0/refint/odev_3.dll
+/Users/omer/projects/odev_3/odev_3/obj/Debug/net7.0/odev_3.pdb
+/Users/omer/projects/odev_3/odev_3/obj/Debug/net7.0/odev_3.genruntimeconfig.cache
+/Users/omer/projects/odev_3/odev_3/obj/Debug/net7.0/ref/odev_3.dll
